@@ -8,8 +8,8 @@ Integrantes:
 - Legajo: **222.281-4** 
 - Nombre: **Agustina Denise Duran**
 
-- Legajo: **Completar** 
-- Nombre: **Completar**
+- Legajo: **222.398-3** 
+- Nombre: **Lucas Nicolás Herdegen Camblor**
 
 
 ## Objetivos
