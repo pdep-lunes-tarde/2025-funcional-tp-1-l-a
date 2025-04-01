@@ -2,11 +2,11 @@
 
 ## Grupo, nombre y legajo de integrantes
 
-- Nombre del grupo: **Completar**
+- Nombre del grupo: **L-A**
 
 Integrantes:
-- Legajo: **Completar** 
-- Nombre: **Completar**
+- Legajo: **222.281-4** 
+- Nombre: **Agustina Denise Duran**
 
 - Legajo: **Completar** 
 - Nombre: **Completar**
