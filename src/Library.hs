@@ -15,7 +15,7 @@ inversa numero = 1 / numero
 -- 1.5. Perímetros y áreas
 
 perimetroCirculo :: Number -> Number
-perimetroCirculo radio = 2 * radio * 3.14
+perimetroCirculo radio = 2 * radio * pi
 
 perimetroCuadrado :: Number -> Number
 perimetroCuadrado lado = lado * 4
@@ -24,10 +24,10 @@ superficieCuadrado :: Number -> Number
 superficieCuadrado lado = lado * lado
 
 superficieCubo :: Number -> Number
-superficieCubo lado = lado * lado * lado
+superficieCubo lado = lado * lado * 6
 
 superficieCilindro :: Number -> Number -> Number
-superficieCilindro radio altura = (2 * radio * radio * 3.14) + (2 * 3.14 * radio * altura)
+superficieCilindro radio altura = (2 * radio * radio * pi) + (2 * pi * radio * altura)
 
 
 -- 2. Temperaturas
